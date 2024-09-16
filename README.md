@@ -10,4 +10,8 @@ esquematico
 
 <img src="https://i.imgur.com/gvQZhbS.png" alt= "">
 
+esquematico do mux e demux em serie
+
+<img src="https://i.imgur.com/fB6nDIp.png" alt= "">
+
 
