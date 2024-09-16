@@ -1,6 +1,6 @@
 # atp_2
 
-Circuito de um mux em verilog pela logica de fluxo de dados
+Circuito de um mux em verilog pela logica comportamental
 
 simulação
 
