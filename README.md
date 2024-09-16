@@ -1,3 +1,12 @@
 # atp_2
 
-exercicios da Atividade pratica 2 de circuitos digitais
+Circuito de um mux em verilog pela logica de fluxo de dados
+
+simulação
+
+<img src="https://i.imgur.com/ePXUIog.png" alt= "">
+
+esquematico
+
+<img src="https://i.imgur.com/ktm5nRS.png" alt= "">
+
