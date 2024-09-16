@@ -1,6 +1,6 @@
 # atp_2
 
-Circuito de um mux em verilog pela logica comportamental
+Circuito de um mux em verilog pela logica estrutural
 
 simulação
 
@@ -8,5 +8,5 @@ simulação
 
 esquematico
 
-<img src="https://i.imgur.com/ktm5nRS.png" alt= "">
+<img src="https://i.imgur.com/sIY93yV.png" alt= "">
 
